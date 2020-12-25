@@ -1,0 +1,6 @@
+#use "topfind";;
+#thread;;
+#require "core.top";;
+#require "async";;
+
+#ppx "ppx-jane -as-ppx"
